@@ -3,7 +3,7 @@ from PIL import Image
 import tkinter
 from tkinter import messagebox as mb
 
-""" Ф-и(Functions)"""
+"""  Ф-и(Functions) """
 
 
 def qr_create_svg():
